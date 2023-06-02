@@ -1,4 +1,4 @@
-### Hi, I'm milkyskies
+### Hi there, I'm milkyskies.
 
 - 🐙 Based in Osaka, Japan
 - 🔭 Currently working on a task outsourcing platform at [PACES Inc.](https://paces.co.jp/)
